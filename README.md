@@ -5,6 +5,10 @@ A new Flutter project.
 <h3>SCREENSHORT</h3>
 <table>
   <tr>
+    <th>Asset image</th>
+    <th>Network image</th>
+  </tr>
+  <tr>
     <td><img src = "https://github.com/Tusharlathiya8140/Assignment-1/blob/master/Asset%20image.png?raw=true"></td>
     <td><img src = "https://github.com/Tusharlathiya8140/Assignment-1/blob/master/Network%20image.png?raw=true"></td>
   </tr>
